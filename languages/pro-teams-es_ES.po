@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pro Teams\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-27 18:26+0000\n"
+"PO-Revision-Date: 2022-12-27 18:27+0000\n"
+"Last-Translator: 13Node.com\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: pro-teams"
+
+#. Author of the plugin
+msgid "Danilo Ulloa"
+msgstr "Danilo Ulloa"
+
+#: pro-teams.php:72
+msgid "Details"
+msgstr "Detalles"
+
+#: pro-teams.php:113
+msgid "Gallery"
+msgstr "Galería"
+
+#. Author URI of the plugin
+msgid "https://13node.com"
+msgstr "https://13node.com"
+
+#. URI of the plugin
+msgid "https://13node.com/informatica/wordpress/pro-teams-plugin/"
+msgstr "https://13node.com/informatica/wordpress/pro-teams-plugin/"
+
+#: addSingle.php:21
+msgid "Instagram"
+msgstr "Instagram"
+
+#. Name of the plugin
+msgid "Pro Teams"
+msgstr "Pro Teams"
+
+#: pro-teams.php:143
+msgid "Remove"
+msgstr "Eliminar"
+
+#. Description of the plugin
+msgid "Show your team members on your page."
+msgstr "Muestra a los miembros de tu equipo en tu página."
+
+#: addSingle.php:14
+msgid "Website"
+msgstr "Página Wev"

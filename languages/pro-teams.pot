@@ -1,0 +1,57 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pro Teams\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-27 18:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: pro-teams"
+
+#. Author of the plugin
+msgid "Danilo Ulloa"
+msgstr ""
+
+#: pro-teams.php:72
+msgid "Details"
+msgstr ""
+
+#: pro-teams.php:113
+msgid "Gallery"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://13node.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://13node.com/informatica/wordpress/pro-teams-plugin/"
+msgstr ""
+
+#: addSingle.php:21
+msgid "Instagram"
+msgstr ""
+
+#. Name of the plugin
+msgid "Pro Teams"
+msgstr ""
+
+#: pro-teams.php:143
+msgid "Remove"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show your team members on your page."
+msgstr ""
+
+#: addSingle.php:14
+msgid "Website"
+msgstr ""
