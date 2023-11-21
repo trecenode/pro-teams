@@ -1,9 +1,9 @@
 === Pro Teams ===
 Contributors: ulloa
 Requires at least: 3.8
-Tested up to: 5.9
+Tested up to: 6.3
 Stable tag: 1.0
-Requires PHP: 5.3
+Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Tags: wordpress, teams
@@ -27,5 +27,7 @@ We do web development and if you need a developer or if you think you have found
 1- Archive Page
 
 == Changelog ==
+= 1.1 =
+* Added more options
 = 1.0 =
 * Plugin publish

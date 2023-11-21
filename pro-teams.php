@@ -3,7 +3,7 @@
  * Plugin Name: Pro Teams
  * Plugin URI:  https://13node.com/informatica/wordpress/pro-teams-plugin/
  * Description: Show your team members on your page.
- * Version: 1.0
+ * Version: 1.1
  * Author: Danilo Ulloa
  * Author URI: https://13node.com
  * Text Domain: pro-teams
@@ -88,8 +88,17 @@ function tpt_save_meta_box( $post_id ) {
         $post_id = $parent_id;
     }
     $fields = [
+		'tpt_website',
         'tpt_instagram',
-        'tpt_website',
+        'tpt_facebook',
+		'tpt_twitter',
+		'tpt_linkedin',
+		'tpt_youtube',
+		'tpt_behance',
+		'tpt_deviantart',
+		
+		'tpt_tattooya',
+		'tpt_xarcoal'
     ];
     foreach ( $fields as $field ) {
         if ( array_key_exists( $field, $_POST ) ) {
@@ -336,8 +345,7 @@ function proteam_gallery_save( $post_id ) {
 		return;
 
 	if ( $_POST['gallery'] ){
-
-		// Build array for saving post meta
+	
 		$gallery_data = array();
 		for ($i = 0; $i < count( $_POST['gallery']['image_url'] ); $i++ ){
 			if ( '' != $_POST['gallery']['image_url'][$i]){
@@ -350,7 +358,6 @@ function proteam_gallery_save( $post_id ) {
 		else 
 			delete_post_meta( $post_id, 'gallery_data' );
 	} 
-	// Nothing received, all fields are empty, delete option
 	else{
 		delete_post_meta( $post_id, 'gallery_data' );
 	}
